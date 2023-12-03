@@ -4,7 +4,7 @@
 
 For more information see [the writeup here](https://foxrow.com/namogenmo-2023) or [NaMoGenMo on GitHub.](https://github.com/NaMoGenMo/2023)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cOuy6GmQRJw?si=qytmAJNRKf_L6Otj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![phantom of the opera, sorted by action, on youtube](https://img.youtube.com/vi/cOuy6GmQRJw/0.jpg)](https://www.youtube.com/watch?v=cOuy6GmQRJw)
 
 
 ## Usage
