@@ -4,8 +4,7 @@
 
 For more information see [the writeup here](https://foxrow.com/namogenmo-2023) or [NaMoGenMo on GitHub.](https://github.com/NaMoGenMo/2023)
 
-[![phantom of the opera, sorted by action, on youtube](https://img.youtube.com/vi/cOuy6GmQRJw/0.jpg)](https://www.youtube.com/watch?v=cOuy6GmQRJw)
-
+Watch an example BLUF'd movie on youtube: [The Phantom of the Opera (1925)](https://www.youtube.com/watch?v=cOuy6GmQRJw)
 
 ## Usage
 Clone the repository and `cd` to the project directory.
